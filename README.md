@@ -5,7 +5,6 @@
 
 git clone "https://github.com/lucaliebenberg/technodrama-hollywood"
 
-# then
 cd technodrama-hollywood
 
 ```
