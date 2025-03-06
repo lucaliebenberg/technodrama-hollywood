@@ -1,6 +1,6 @@
 # Hollywood Techdrama 
 
-0. Clone
+First, clone the repo:
 ```bash
 
 git clone "https://github.com/lucaliebenberg/technodrama-hollywood"
@@ -9,11 +9,11 @@ cd technodrama-hollywood
 
 ```
 
-1. Build
+Build the image:
 ```
 docker build -t hollywood .
 ```
-2. Run
+Run the build:
 ```
 docker run -it hollywood
 ```
